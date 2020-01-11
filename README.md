@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.io/ro6ley/django_ec2.svg)](http://hits.dwyl.io/ro6ley/django_ec2)
 
-# Django_Redis
+# Django EC2
 
 This repository contains the code for this [blogpost](https://stackabuse.com/deploying-django-applications-to-aws-ec2-with-docker/).
 
